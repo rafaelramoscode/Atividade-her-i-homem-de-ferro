@@ -1,6 +1,9 @@
 body { 
     background-color: black;
     color: white;
+    background-image: url("assets/homem-de-ferro-guerra-infinita-e1603289648504.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img {
@@ -26,5 +29,18 @@ footer p{
 
 p {
 
-    color: brown             ;
+    color: white            ;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+ display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
